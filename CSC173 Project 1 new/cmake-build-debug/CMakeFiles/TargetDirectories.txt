@@ -1,0 +1,3 @@
+/Users/yingcanchen/Desktop/CSC173 Project 1 new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yingcanchen/Desktop/CSC173 Project 1 new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yingcanchen/Desktop/CSC173 Project 1 new/cmake-build-debug/CMakeFiles/CSC173_Project_1_new.dir

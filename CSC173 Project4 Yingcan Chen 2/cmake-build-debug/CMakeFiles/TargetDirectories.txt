@@ -1,0 +1,3 @@
+/Users/yingcanchen/Documents/CSC173 Project4 Yingcan Chen 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yingcanchen/Documents/CSC173 Project4 Yingcan Chen 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yingcanchen/Documents/CSC173 Project4 Yingcan Chen 2/cmake-build-debug/CMakeFiles/untitled9.dir

@@ -1,0 +1,4 @@
+CS101,Turing Aud.,
+EE200,25 Ohm Hall,
+PH142,Hoyt Aud.,
+-1,,

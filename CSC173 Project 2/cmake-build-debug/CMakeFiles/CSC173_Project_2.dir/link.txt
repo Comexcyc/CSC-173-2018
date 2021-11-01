@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CSC173_Project_2.dir/expr.c.o CMakeFiles/CSC173_Project_2.dir/LinkedList.c.o CMakeFiles/CSC173_Project_2.dir/RecursiveDescentParser.c.o  -o CSC173_Project_2 
